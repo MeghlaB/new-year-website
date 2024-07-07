@@ -47,7 +47,8 @@ body{
     min-height: 806px;
     border: 1px solid black;
     margin: 0% auto;
-    margin-top: 100px; 
+    margin-top: 100px;
+    border: none; 
    
  
 }
@@ -65,4 +66,24 @@ body{
     font-size: 24px;
     font-weight: 700px;
     letter-spacing: 0%;
+
+}
+.section-frist-subtitle{
+    margin-top: 15px;
+    font-size: 48px;
+    font-weight: bolder;
+    color: #070211;
+    letter-spacing: 0%;
+} 
+.frist-iamge-section{
+    margin-top: 48px;
+    max-width: 802.9px;
+    min-height: 400px;
+    border: 1px dashed grey;
+}
+.second-section{
+    max-width:1320px;
+    min-height: 600px;
+    margin: 0% auto;
+    background-image: url('/images/Vectorrr.png');
 }
