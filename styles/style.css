@@ -82,8 +82,11 @@ body{
     border: 1px dashed grey;
 }
 .second-section{
-    max-width:1320px;
+    max-width:1120px;
     min-height: 600px;
     margin: 0% auto;
+    margin-top: 50px;
+    border: 1px solid red;
     background-image: url('/images/Vectorrr.png');
+   
 }
