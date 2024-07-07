@@ -133,9 +133,33 @@ body{
 .second-image img{
     margin: 64px 64px 104px 64px;
     width: 320px;
-
-    background: radial-gradient(49.50% 49.50% at 50% 50%,rgb(105, 11, 2) 27%,rgb(143, 73, 65) 39%,rgb(177, 128, 121) 51%,rgb(205, 173, 168) 62%,rgb(227, 209, 205) 73%,rgb(242, 234, 231) 84%,rgb(252, 250, 246) 93%;
     height: 404px;
     padding: 0px;
 }
+
+/* third-section */
+.third-section{ 
+    max-width: 1120px;
+    min-height: 420px;
+    margin: 0% auto;
+    margin-top: 100px;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+}
+.third-container{
+    font-family: "Inter", sans-serif;
     
+
+}
+p,span{
+   
+    font-size: 34px;
+    font-weight: 600px;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: capitalize;
+}
+span{
+    color: #FF0000;
+}
