@@ -244,7 +244,7 @@ span{
 }
 /* Fivth-section */
 .fivth-section{
-    /* border: 1px solid rebeccapurple; */
+    border: 1px solid rebeccapurple; 
     max-width: 1320px;
     margin: 0% auto;
 
@@ -290,14 +290,17 @@ span{
     border: 1px dashed rgb(115, 114, 116);
 }
 .fivth-second-image{
-    width: 40%;
+    width: 23%;
     height: 50%;
-    margin-top: 150px;
-    margin-right: 20px;
+    text-align: center;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    margin-top: 120px;
+    margin-left: 100px;
     border: 1px dashed rgb(115, 114, 116);
 }
 .fivth-border-section{
-    width: 1120px;
+    width: 1320px;
     height: 200px;
     border-radius: 16px 0px 16px 16px;
     background: rgb(255, 0, 0);
