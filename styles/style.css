@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 *{
     box-sizing: border-box;
     margin: 0;
@@ -250,4 +251,65 @@ span{
 .forth-last-titile{
     color: #FF0000;
     font-family: "Inter", sans-serif;
+}
+/* Fivth-section */
+.fivth-section{
+    /* border: 1px solid rebeccapurple; */
+    max-width: 1120px;
+    margin: 0% auto;
+
+}
+.fivth-text{
+    width: 80%;
+    margin: 0% auto;
+}
+.fivth-section-titile{
+    font-size: 24px;
+    font-weight: 400;
+    gap: 10px;
+}
+.fivth-section-subtitle{
+    font-family: "Merriweather", serif;
+    font-size: 60px;
+    font-weight: 900px;
+
+}
+span{
+    color: #FF0000;
+}
+.fivth-description{
+    color: rgba(7, 2, 17, 0.6);
+    font-size:16px;
+    font-weight: 400px;
+}
+.fivth-banner-section{
+    max-width: 1120px;
+    /* min-height: 400px;  */
+    margin-top: 35px;
+
+}
+
+.fivth-image-section{
+    height: 550px;
+    display: flex;
+    gap: 50px;
+}
+.fivth-first-image{
+    width: 60%;
+    padding-top: 100px;
+    border: 1px dashed rgb(115, 114, 116);
+}
+.fivth-second-image{
+    width: 40%;
+    height: 50%;
+    margin-top: 150px;
+    margin-right: 20px;
+    border: 1px dashed rgb(115, 114, 116);
+}
+.fivth-border-section{
+    width: 1120px;
+    height: 200px;
+    border-radius: 16px 0px 16px 16px;
+    background: rgb(255, 0, 0);
+
 }
