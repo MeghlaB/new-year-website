@@ -343,6 +343,56 @@ span{
     margin: 18px;
     margin-top: 50px;
     gap: 20px;
-   
-
+}
+.seventh-section{
+    max-width: 1320px;
+    min-height: 600px;
+    border: none;
+    /* border: 1px solid red; */
+    margin: 0% auto;
+    margin-top: 50px;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+}
+#Rectangle-iamge{
+    border: 2px dashed rgb(155, 155, 154);
+}
+.seventh-image{
+    text-align: center;
+    padding-top: 80px;
+    
+}
+.seventh-title{
+    font-size: 48px;
+    font-weight: 900;
+    font-family: "Merriweather", serif;
+    text-align: center;
+    padding-top: 35px;
+}
+.seventh-description{
+    color: grey;
+    font-size:16px;
+    text-align: center;
+}
+.input-text{
+    text-align: center;
+    margin-top: 50px;
+}
+.input-style{
+    width: 450px;
+    height: 58px;
+    border: none;
+    font-size: 20px;
+    padding-left: 50px;
+    border-radius: 50px;
+}
+.seveth-btn-style{
+    width: 180px;
+    height: 60px;
+    padding: 10px 20px;
+    font-size: 24px;
+    border: none;
+    border-radius:50px;
+    background-color: #FF0000;
+    color: #FFFFFF;
 }
