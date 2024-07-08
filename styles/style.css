@@ -244,8 +244,9 @@ span{
 }
 /* Fivth-section */
 .fivth-section{
-    border: 1px solid rebeccapurple; 
+    /* border: 1px solid rebeccapurple;  */
     max-width: 1320px;
+    min-height: 400px;
     margin: 0% auto;
 
 }
@@ -293,8 +294,9 @@ span{
     width: 23%;
     height: 50%;
     text-align: center;
+    margin: 0% auto;
     padding-right: 20px;
-    padding-bottom: 50px;
+    padding-bottom: 90px;
     margin-top: 120px;
     margin-left: 100px;
     border: 1px dashed rgb(115, 114, 116);
@@ -308,15 +310,18 @@ span{
 }
 /* sixth-section-styles */
 .sixth-section{
-   
     max-width: 1320px;
     min-height: 400px;
-    margin-top: 50px;
+    margin-top: 500px;
     margin: 0% auto;
     /* border: 1px solid red; */
   
 }
+.sixth-title-section{
+    margin-top: 10g0px;
+} 
 .sixth-title{
+    padding-top: 50px;
     font-family: "Inter", sans-serif;
     font-size: 20px;
     font-weight: 500;
